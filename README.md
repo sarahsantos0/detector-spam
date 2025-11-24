@@ -27,4 +27,7 @@ O texto da mensagem é transformado em números pelo TF-IDF, que mede a importâ
 Em seguida, o algoritmo Naive Bayes calcula a probabilidade de a mensagem ser spam ou não spam, escolhendo a classe mais provável.
 Esse modelo é simples, leve e ideal para aprendizado de conceitos básicos de Machine Learning.
 
+## Desenvolvedor 👩‍💻
 
+**Sarah Santos**  
+- [LinkedIn](https://www.linkedin.com/in/sarah-santos-1977b5279/) 🌐
