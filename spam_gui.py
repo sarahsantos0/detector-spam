@@ -24,7 +24,7 @@ def treinar_modelo():
         df["message"], df["label"], test_size=0.2, random_state=42
     )
 
-    vectorizer = TfidfVectorizer(stop_words="portuguese")  # remove stopwords
+    vectorizer = TfidfVectorizer(stop_words="english")  # remove stopwords
     x_train_tfidf = vectorizer.fit_transform(X_train)
 
     model = MultinomialNB()
