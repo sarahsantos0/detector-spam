@@ -10,7 +10,7 @@ Além disso, possui uma interface gráfica simples construída com Tkinter, perm
 - **Pandas** – manipulação de dados  
 - **Scikit-learn** – ML clássico (Naive Bayes + TF-IDF)  
 - **Tkinter** – interface gráfica nativa do Python  
-- **Joblib**
+- **Joblib** - serializar/deserializar (salvar/carregar) objetos Python (modelo + vetor).
 
 ## 📂 Estrutura do Projeto
 ```markdown
