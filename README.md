@@ -1,6 +1,6 @@
 # 📧 Detector de Spam em Python
 
-Este projeto implementa um classificador de mensagens de texto para identificar se uma mensagem é spam ou não spam, utilizando Naive Bayes e TF-IDF. 
+Este projeto implementa um classificador simples de mensagens de texto para identificar se uma mensagem é spam ou não spam, utilizando Naive Bayes e TF-IDF. 
 Além disso, possui uma interface gráfica simples construída com Tkinter, permitindo que o usuário insira mensagens e veja o resultado da classificação em tempo real.
 
 
