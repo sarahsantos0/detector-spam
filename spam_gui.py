@@ -1,6 +1,8 @@
 # esse modelo de detecção de spam usa Naive Bayes e TF-IDF para classificar mensagens como spam ou não spam
 # é um projeto simples para tentar entender como construir um classificador de texto e criar uma interface gráfica 
 # com tkinter. 
+# o modelo está com dataset em ingles, mas pode ser adaptado para outros idiomas com datasets apropriados.
+# lembre-se de que este é um exemplo básico e não deve ser usado em produção sem melhorias significativas,
 # apenas para fins educacionais.
 
 
